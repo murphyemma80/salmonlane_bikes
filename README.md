@@ -19,7 +19,6 @@ I would like to attempt to work with PostgreSQL on a future project.
 SOME OF MY ONLINE REFERENCES:
 
 https://www.becomingadatascientist.com/2017/10/01/podcast-listens-analysis/
-
 https://www.youtube.com/watch?v=uoLE14ZLkUM
 https://github.com/mkleehammer/pyodbc/wiki/Connecting-to-SQL-Server-from-Windows
 https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas
